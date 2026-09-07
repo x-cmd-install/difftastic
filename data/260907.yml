@@ -5,13 +5,13 @@ about:
   head: 440aa71
   archived: false
   latestVersion: "0.70.0"
-  collectedAt: 2026-09-07T04:49:15Z
+  collectedAt: 2026-09-07T19:42:08Z
 timeline:
   created: 2018-12-18
   lastCommit: 2026-09-06
   lastRelease: 2026-08-07
 popularity:
-  star: 25862
+  star: 25863
   watcher: 66
   fork: 515
   release: 52
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 5
-    openPR: 9
+    openPR: 8
     closedIssue: 3
     openIssue: 4
     commit: 36
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 11
-    openPR: 14
+    openPR: 13
     closedIssue: 4
     openIssue: 10
     commit: 114
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 11
-    openPR: 18
+    openPR: 17
     closedIssue: 7
     openIssue: 19
     commit: 151
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-11
     release: 3
     mergedPR: 16
-    openPR: 21
+    openPR: 20
     closedIssue: 11
     openIssue: 31
     commit: 216
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-12
     release: 5
     mergedPR: 53
-    openPR: 27
+    openPR: 26
     closedIssue: 29
     openIssue: 47
     commit: 430
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-17
     release: 9
     mergedPR: 67
-    openPR: 31
+    openPR: 30
     closedIssue: 81
     openIssue: 82
     commit: 560
 total:
   release: 52
   mergedPR: 165
-  openPR: 46
+  openPR: 45
   closedIssue: 503
   openIssue: 248
   commit: 15916
 ---
 path: /home/runner/.x-repo/github.com/Wilfred/difftastic
-collectedAt: 2026-09-07T04:54:18Z
+collectedAt: 2026-09-07T19:46:43Z
 loc:
   Cpp:
     code: 1035118
@@ -396,7 +396,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:54:28+00:00
+  collectedAt: 2026-09-07T19:46:45+00:00
   platform:
     darwin/arm64:
       name:  difft-aarch64-apple-darwin.tar.gz
