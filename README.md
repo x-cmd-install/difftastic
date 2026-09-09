@@ -7,7 +7,7 @@ a structural diff that understands syntax 🟥🟩
 - **Latest release**: `0.70.0` (2026-08-07)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 25867 · **Forks**: 515 · **Open issues**: 751 · **Contributors**: 451
+- **Stars**: 25870 · **Forks**: 515 · **Open issues**: 751 · **Contributors**: 451
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/difftastic> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:58:57Z._
+_Last regenerated: 2026-09-09T19:07:37Z._
