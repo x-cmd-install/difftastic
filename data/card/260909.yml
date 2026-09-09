@@ -7,7 +7,7 @@ about:
   latestVersion: "0.70.0"
   latestRelease: "0.70.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:54:17Z
+  collectedAt: 2026-09-09T19:02:36Z
 timeline:
   created: 2018-12-18
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 25867
+  star: 25870
   watcher: 66
   fork: 515
   release: 52
@@ -89,7 +89,7 @@ total:
   commit: 15918
 ---
 path: /home/runner/.x-repo/github.com/Wilfred/difftastic
-collectedAt: 2026-09-09T04:58:48Z
+collectedAt: 2026-09-09T19:07:29Z
 loc:
   Cpp:
     code: 1035118
