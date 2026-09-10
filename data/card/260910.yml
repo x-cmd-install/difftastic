@@ -7,7 +7,7 @@ about:
   latestVersion: "0.70.0"
   latestRelease: "0.70.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:40:44Z
+  collectedAt: 2026-09-10T20:53:05Z
 timeline:
   created: 2018-12-18
   lastCommit: 2026-09-08
@@ -89,7 +89,7 @@ total:
   commit: 15918
 ---
 path: /home/runner/.x-repo/github.com/Wilfred/difftastic
-collectedAt: 2026-09-10T16:45:23Z
+collectedAt: 2026-09-10T20:58:20Z
 loc:
   Cpp:
     code: 1035118
