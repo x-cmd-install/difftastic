@@ -7,7 +7,7 @@ about:
   latestVersion: "0.70.0"
   latestRelease: "0.70.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:53:05Z
+  collectedAt: 2026-09-10T22:51:10Z
 timeline:
   created: 2018-12-18
   lastCommit: 2026-09-08
@@ -21,7 +21,7 @@ popularity:
   release: 52
   contributor: 451
   pullRequest: 301
-  issue: 751
+  issue: 750
 language:
   Rust: 574515
   CSS: 55279
@@ -85,11 +85,11 @@ total:
   mergedPR: 165
   openPR: 44
   closedIssue: 503
-  openIssue: 248
+  openIssue: 247
   commit: 15918
 ---
 path: /home/runner/.x-repo/github.com/Wilfred/difftastic
-collectedAt: 2026-09-10T20:58:20Z
+collectedAt: 2026-09-10T22:55:32Z
 loc:
   Cpp:
     code: 1035118
