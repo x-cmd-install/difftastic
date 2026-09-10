@@ -23,11 +23,22 @@ x install difftastic
 - **Latest**: `0.70.0` (2026-08-07)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 7
-- **Published**: 2026-08-07T22:06:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [difft-aarch64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-apple-darwin.tar.gz) | 11.6 MiB | `native/darwin/arm64` |
+| [difft-aarch64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-pc-windows-msvc.zip) | 9.9 MiB | `native/win/arm64` |
+| [difft-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-unknown-linux-gnu.tar.gz) | 11.1 MiB | `native/linux/arm64/glibc` |
+| [difft-x86_64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-apple-darwin.tar.gz) | 10.9 MiB | `native/darwin/x64` |
+| [difft-x86_64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-pc-windows-msvc.zip) | 10.1 MiB | `native/win/x64` |
+| [difft-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-gnu.tar.gz) | 11.3 MiB | `native/linux/x64/glibc` |
+| [difft-x86_64-unknown-linux-musl.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-musl.tar.gz) | 11.4 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 25,872 · **Forks**: 515 · **Open issues**: 751 · **Contributors**: 451
+- **Stars**: 25,877 · **Forks**: 515 · **Open issues**: 751 · **Contributors**: 451
 
 ## Totals (cumulative)
 
@@ -58,8 +69,8 @@ Total: **1,867,635** lines of code across **109** files in the top 5 languages.
 Install metadata for difftastic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `difftastic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/difftastic.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/difftastic.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:00:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:31Z._
