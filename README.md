@@ -38,11 +38,11 @@ Total: **1,867,635** lines of code across **109** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,877 · **Forks**: 515 · **Open issues**: 751 · **Contributors**: 451
+- **Stars**: 25,877 · **Forks**: 515 · **Open issues**: 750 · **Contributors**: 451
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 165 · **Open PRs**: 44 · **Closed issues**: 503 · **Open issues**: 248 · **Commits**: 15918
+- **Releases**: 52 · **Merged PRs**: 165 · **Open PRs**: 44 · **Closed issues**: 503 · **Open issues**: 247 · **Commits**: 15918
 
 ## Recent activity
 
@@ -90,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:58:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:55:39Z._

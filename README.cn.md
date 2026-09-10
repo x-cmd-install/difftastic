@@ -12,7 +12,7 @@ a structural diff that understands syntax 🟥🟩
 x install difftastic
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **1,867,635** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
 
@@ -38,11 +38,11 @@ x install difftastic
 
 ## 流行度
 
-- **Star**: 25,877 · **Fork**: 515 · **开放 issue**: 751 · **贡献者**: 451
+- **Star**: 25,877 · **Fork**: 515 · **开放 issue**: 750 · **贡献者**: 451
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 165 · **开放 PR**: 44 · **已关闭 issue**: 503 · **开放 issue**: 248 · **提交数**: 15918
+- **发布数**: 52 · **已合并 PR**: 165 · **开放 PR**: 44 · **已关闭 issue**: 503 · **开放 issue**: 247 · **提交数**: 15918
 
 ## 最近活动
 
@@ -90,4 +90,4 @@ difftastic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:58:32Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:55:40Z._
