@@ -12,6 +12,18 @@ a structural diff that understands syntax 🟥🟩
 x install difftastic
 ```
 
+## Code insight
+
+Total: **1,867,635** lines of code across **109** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Cpp | 1,035,118 | 50,722 | 86,657 | 6 |
+| C | 710,860 | 90 | 198 | 11 |
+| Json | 41,676 | 0 | 3 | 22 |
+| OCaml | 29,188 | 2,108 | 1,615 | 8 |
+| Rust | 18,417 | 924 | 2,166 | 62 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Wilfred/difftastic>
@@ -23,18 +35,6 @@ x install difftastic
 - **Latest**: `0.70.0` (2026-08-07)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 7
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [difft-aarch64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-apple-darwin.tar.gz) | 11.6 MiB | `native/darwin/arm64` |
-| [difft-aarch64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-pc-windows-msvc.zip) | 9.9 MiB | `native/win/arm64` |
-| [difft-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-unknown-linux-gnu.tar.gz) | 11.1 MiB | `native/linux/arm64/glibc` |
-| [difft-x86_64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-apple-darwin.tar.gz) | 10.9 MiB | `native/darwin/x64` |
-| [difft-x86_64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-pc-windows-msvc.zip) | 10.1 MiB | `native/win/x64` |
-| [difft-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-gnu.tar.gz) | 11.3 MiB | `native/linux/x64/glibc` |
-| [difft-x86_64-unknown-linux-musl.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-musl.tar.gz) | 11.4 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -49,20 +49,37 @@ x install difftastic
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 3 | 7 | 2 | 4 | 40 |
+| last60d | 2026-07-12 | 1 | 11 | 12 | 4 | 8 | 118 |
 | 90d | 2026-06-12 | 1 | 11 | 16 | 7 | 19 | 155 |
+| last180d | 2026-03-14 | 3 | 16 | 19 | 11 | 31 | 220 |
 | 360d | 2025-09-15 | 5 | 53 | 25 | 29 | 47 | 434 |
+| last720d | 2024-09-20 | 9 | 67 | 29 | 81 | 81 | 562 |
 
-## Code size
+## Release assets
 
-Total: **1,867,635** lines of code across **109** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [difft-aarch64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-apple-darwin.tar.gz) | 11.6 MiB | `native/darwin/arm64` |
+| [difft-aarch64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-pc-windows-msvc.zip) | 9.9 MiB | `native/win/arm64` |
+| [difft-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-unknown-linux-gnu.tar.gz) | 11.1 MiB | `native/linux/arm64/glibc` |
+| [difft-x86_64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-apple-darwin.tar.gz) | 10.9 MiB | `native/darwin/x64` |
+| [difft-x86_64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-pc-windows-msvc.zip) | 10.1 MiB | `native/win/x64` |
+| [difft-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-gnu.tar.gz) | 11.3 MiB | `native/linux/x64/glibc` |
+| [difft-x86_64-unknown-linux-musl.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-musl.tar.gz) | 11.4 MiB | `native/linux/x64/musl` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Cpp | 1,035,118 | 50,722 | 86,657 | 6 |
-| C | 710,860 | 90 | 198 | 11 |
-| Json | 41,676 | 0 | 3 | 22 |
-| OCaml | 29,188 | 2,108 | 1,615 | 8 |
-| Rust | 18,417 | 924 | 2,166 | 62 |
+## Distribution status
+
+Reported by **78** distros on [repology.org](https://repology.org/project/difftastic). **33** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.70.0` | ✅ latest |
+| Homebrew | `0.70.0` | ✅ latest |
+| Fedora rawhide | `0.69.0` | ⚠️ outdated |
+| Nix unstable | `0.70.0` | ✅ latest |
+| Void | `0.67.0` | ⚠️ outdated |
+| Alpine edge | `0.70.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.70.0` | ✅ latest |
 
 ## Improve this data
 
@@ -73,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:58:31Z._
