@@ -14,7 +14,7 @@ x install difftastic
 
 ## Code insight
 
-Total: **1,867,676** lines of code across **109** files in the top 5 languages.
+Total: **1,867,712** lines of code across **109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **1,867,676** lines of code across **109** files in the top 5 languages.
 | C | 710,860 | 90 | 198 | 11 |
 | Json | 41,676 | 0 | 3 | 22 |
 | OCaml | 29,188 | 2,108 | 1,615 | 8 |
-| Rust | 18,458 | 926 | 2,172 | 62 |
+| Rust | 18,494 | 927 | 2,180 | 62 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,867,676** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.70.0` (2026-08-07)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 25,888 · **Forks**: 515 · **Open issues**: 752 · **Contributors**: 451
+- **Stars**: 25,896 · **Forks**: 516 · **Open issues**: 752 · **Contributors**: 451
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 165 · **Open PRs**: 44 · **Closed issues**: 503 · **Open issues**: 249 · **Commits**: 15925
+- **Releases**: 52 · **Merged PRs**: 165 · **Open PRs**: 44 · **Closed issues**: 505 · **Open issues**: 247 · **Commits**: 15928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 3 | 2 | 2 | 4 | 46 |
-| last60d | 2026-07-15 | 1 | 10 | 12 | 4 | 10 | 120 |
-| 90d | 2026-06-15 | 1 | 11 | 14 | 7 | 19 | 167 |
-| last180d | 2026-03-17 | 2 | 16 | 19 | 10 | 33 | 231 |
-| 360d | 2025-09-18 | 5 | 52 | 25 | 29 | 49 | 439 |
-| last720d | 2024-09-23 | 9 | 67 | 29 | 80 | 83 | 569 |
+| 30d | 2026-08-16 | 0 | 2 | 3 | 4 | 2 | 52 |
+| last60d | 2026-07-17 | 1 | 8 | 12 | 6 | 8 | 126 |
+| 90d | 2026-06-17 | 1 | 11 | 13 | 9 | 16 | 173 |
+| last180d | 2026-03-19 | 2 | 16 | 19 | 12 | 30 | 237 |
+| 360d | 2025-09-20 | 5 | 52 | 25 | 31 | 47 | 445 |
+| last720d | 2024-09-25 | 9 | 67 | 29 | 82 | 80 | 568 |
 
 ## Release assets
 
@@ -67,20 +67,6 @@ Total: **1,867,676** lines of code across **109** files in the top 5 languages.
 | [difft-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-gnu.tar.gz) | 11.3 MiB | `native/linux/x64/glibc` |
 | [difft-x86_64-unknown-linux-musl.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-musl.tar.gz) | 11.4 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **78** distros on [repology.org](https://repology.org/project/difftastic). **33** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.70.0` | ✅ latest |
-| Homebrew | `0.70.0` | ✅ latest |
-| Fedora rawhide | `0.69.0` | ⚠️ outdated |
-| Nix unstable | `0.70.0` | ✅ latest |
-| Void | `0.67.0` | ⚠️ outdated |
-| Alpine edge | `0.70.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.70.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for difftastic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `difftastic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +76,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:11:09Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:12:06Z._
