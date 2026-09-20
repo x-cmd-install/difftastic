@@ -4,7 +4,7 @@
 
 a structural diff that understands syntax 🟥🟩
 
-![difftastic](https://repo.x-cmd.io/difftastic.svg)
+[![x-cmd/install — difftastic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/difftastic.svg)](https://x-cmd.com/install/difftastic)
 
 ## Install
 
@@ -14,7 +14,7 @@ x install difftastic
 
 ## Code insight
 
-Total: **1,867,712** lines of code across **109** files in the top 5 languages.
+Total: **1,863,802** lines of code across **109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -32,40 +32,40 @@ Total: **1,867,712** lines of code across **109** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.70.0` (2026-08-07)
-- **Last commit**: 2026-09-14
+- **Latest**: `0.71.0` (2026-09-18)
+- **Last commit**: 2026-09-18
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 25,912 · **Forks**: 517 · **Open issues**: 752 · **Contributors**: 451
+- **Stars**: 25,916 · **Forks**: 518 · **Open issues**: 752 · **Contributors**: 451
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 165 · **Open PRs**: 43 · **Closed issues**: 505 · **Open issues**: 247 · **Commits**: 15928
+- **Releases**: 53 · **Merged PRs**: 165 · **Open PRs**: 43 · **Closed issues**: 507 · **Open issues**: 245 · **Commits**: 15932
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 3 | 3 | 2 | 52 |
-| last60d | 2026-07-20 | 1 | 8 | 11 | 6 | 8 | 126 |
-| 90d | 2026-06-20 | 1 | 11 | 13 | 8 | 16 | 173 |
-| last180d | 2026-03-22 | 2 | 16 | 19 | 12 | 30 | 237 |
-| 360d | 2025-09-23 | 5 | 52 | 25 | 31 | 47 | 445 |
-| last720d | 2024-09-28 | 9 | 67 | 29 | 81 | 80 | 567 |
+| 30d | 2026-08-21 | 1 | 2 | 3 | 3 | 0 | 49 |
+| last60d | 2026-07-22 | 2 | 8 | 10 | 6 | 7 | 123 |
+| 90d | 2026-06-22 | 2 | 11 | 13 | 9 | 15 | 175 |
+| last180d | 2026-03-24 | 3 | 16 | 19 | 14 | 26 | 243 |
+| 360d | 2025-09-25 | 5 | 51 | 25 | 33 | 45 | 436 |
+| last720d | 2024-09-30 | 10 | 67 | 29 | 83 | 78 | 571 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [difft-aarch64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-apple-darwin.tar.gz) | 11.6 MiB | `native/darwin/arm64` |
-| [difft-aarch64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-pc-windows-msvc.zip) | 9.9 MiB | `native/win/arm64` |
-| [difft-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-aarch64-unknown-linux-gnu.tar.gz) | 11.1 MiB | `native/linux/arm64/glibc` |
-| [difft-x86_64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-apple-darwin.tar.gz) | 10.9 MiB | `native/darwin/x64` |
-| [difft-x86_64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-pc-windows-msvc.zip) | 10.1 MiB | `native/win/x64` |
-| [difft-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-gnu.tar.gz) | 11.3 MiB | `native/linux/x64/glibc` |
-| [difft-x86_64-unknown-linux-musl.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.70.0/difft-x86_64-unknown-linux-musl.tar.gz) | 11.4 MiB | `native/linux/x64/musl` |
+| [difft-0.71.0-aarch64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.71.0/difft-0.71.0-aarch64-apple-darwin.tar.gz) | 11.4 MiB | `native/darwin/arm64` |
+| [difft-0.71.0-aarch64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.71.0/difft-0.71.0-aarch64-pc-windows-msvc.zip) | 9.8 MiB | `native/win/arm64` |
+| [difft-0.71.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.71.0/difft-0.71.0-aarch64-unknown-linux-gnu.tar.gz) | 10.9 MiB | `native/linux/arm64/glibc` |
+| [difft-0.71.0-x86_64-apple-darwin.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.71.0/difft-0.71.0-x86_64-apple-darwin.tar.gz) | 10.8 MiB | `native/darwin/x64` |
+| [difft-0.71.0-x86_64-pc-windows-msvc.zip](https://github.com/Wilfred/difftastic/releases/download/0.71.0/difft-0.71.0-x86_64-pc-windows-msvc.zip) | 10.0 MiB | `native/win/x64` |
+| [difft-0.71.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.71.0/difft-0.71.0-x86_64-unknown-linux-gnu.tar.gz) | 11.1 MiB | `native/linux/x64/glibc` |
+| [difft-0.71.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.71.0/difft-0.71.0-x86_64-unknown-linux-musl.tar.gz) | 11.2 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:14:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:08:42Z._
