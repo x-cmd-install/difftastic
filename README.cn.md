@@ -4,7 +4,7 @@
 
 a structural diff that understands syntax 🟥🟩
 
-[![x-cmd/install — difftastic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/difftastic.svg?lang=zh)](https://x-cmd.com/install/difftastic)
+[![x-cmd/install — difftastic Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/difftastic.svg?lang=zh)](https://x-cmd.com/install/difftastic)
 
 ## 安装
 
@@ -14,7 +14,7 @@ x install difftastic
 
 ## 代码洞察
 
-合计: **1,863,802** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
+合计: **1,863,816** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -22,7 +22,7 @@ x install difftastic
 | C | 710,860 | 90 | 198 | 11 |
 | Json | 41,676 | 0 | 3 | 22 |
 | OCaml | 29,188 | 2,108 | 1,615 | 8 |
-| Rust | 18,494 | 927 | 2,180 | 62 |
+| Rust | 18,508 | 927 | 2,185 | 62 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install difftastic
 ## 发布
 
 - **最新版本**: `0.71.0` (2026-09-18)
-- **最近提交**: 2026-09-18
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 25,919 · **Fork**: 518 · **开放 issue**: 753 · **贡献者**: 451
+- **Star**: 25,923 · **Fork**: 518 · **开放 issue**: 753 · **贡献者**: 452
 
 ## 累计统计
 
-- **发布数**: 53 · **已合并 PR**: 165 · **开放 PR**: 43 · **已关闭 issue**: 507 · **开放 issue**: 246 · **提交数**: 15932
+- **发布数**: 53 · **已合并 PR**: 165 · **开放 PR**: 41 · **已关闭 issue**: 507 · **开放 issue**: 246 · **提交数**: 15933
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 3 | 3 | 1 | 49 |
-| last60d | 2026-07-24 | 2 | 7 | 10 | 6 | 8 | 123 |
-| 90d | 2026-06-24 | 2 | 11 | 12 | 9 | 15 | 175 |
-| last180d | 2026-03-26 | 3 | 16 | 19 | 14 | 26 | 243 |
-| 360d | 2025-09-27 | 5 | 51 | 25 | 33 | 45 | 436 |
-| last720d | 2024-10-02 | 10 | 66 | 29 | 83 | 79 | 571 |
+| 30d | 2026-08-24 | 1 | 2 | 2 | 3 | 1 | 50 |
+| last60d | 2026-07-25 | 2 | 7 | 10 | 6 | 8 | 124 |
+| 90d | 2026-06-25 | 2 | 11 | 11 | 8 | 14 | 177 |
+| last180d | 2026-03-27 | 3 | 16 | 18 | 14 | 26 | 245 |
+| 360d | 2025-09-28 | 5 | 51 | 24 | 33 | 45 | 438 |
+| last720d | 2024-10-03 | 10 | 66 | 28 | 83 | 78 | 571 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ difftastic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:12:51Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:12:53Z._
