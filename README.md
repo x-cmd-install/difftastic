@@ -38,7 +38,7 @@ Total: **1,863,816** lines of code across **109** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,938 · **Forks**: 520 · **Open issues**: 754 · **Contributors**: 452
+- **Stars**: 25,948 · **Forks**: 520 · **Open issues**: 754 · **Contributors**: 452
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,863,816** lines of code across **109** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 2 | 3 | 3 | 2 | 31 |
-| last60d | 2026-07-30 | 2 | 7 | 11 | 5 | 9 | 97 |
-| 90d | 2026-06-30 | 2 | 11 | 12 | 8 | 13 | 177 |
-| last180d | 2026-04-01 | 3 | 16 | 19 | 14 | 26 | 245 |
-| 360d | 2025-10-03 | 5 | 46 | 25 | 32 | 45 | 388 |
-| last720d | 2024-10-08 | 10 | 66 | 29 | 83 | 79 | 567 |
+| 30d | 2026-08-30 | 1 | 2 | 3 | 3 | 2 | 31 |
+| last60d | 2026-07-31 | 2 | 7 | 11 | 5 | 9 | 97 |
+| 90d | 2026-07-01 | 2 | 11 | 12 | 8 | 13 | 177 |
+| last180d | 2026-04-02 | 3 | 16 | 19 | 14 | 26 | 245 |
+| 360d | 2025-10-04 | 5 | 44 | 25 | 32 | 45 | 388 |
+| last720d | 2024-10-09 | 10 | 66 | 29 | 82 | 79 | 567 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:32:20Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:59:35Z._
