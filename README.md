@@ -33,27 +33,27 @@ Total: **1,863,816** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.71.0` (2026-09-18)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-07
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 25,984 · **Forks**: 522 · **Open issues**: 758 · **Contributors**: 453
+- **Stars**: 25,987 · **Forks**: 523 · **Open issues**: 758 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 166 · **Open PRs**: 41 · **Closed issues**: 511 · **Open issues**: 247 · **Commits**: 15935
+- **Releases**: 53 · **Merged PRs**: 166 · **Open PRs**: 42 · **Closed issues**: 513 · **Open issues**: 245 · **Commits**: 15936
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 1 | 2 | 4 | 4 | 28 |
-| last60d | 2026-08-08 | 1 | 6 | 7 | 8 | 7 | 78 |
-| 90d | 2026-07-09 | 2 | 12 | 11 | 9 | 13 | 159 |
-| last180d | 2026-04-10 | 3 | 17 | 18 | 17 | 27 | 249 |
-| 360d | 2025-10-12 | 5 | 34 | 24 | 34 | 45 | 374 |
-| last720d | 2024-10-17 | 10 | 67 | 28 | 85 | 78 | 562 |
+| 30d | 2026-09-08 | 1 | 1 | 3 | 5 | 3 | 29 |
+| last60d | 2026-08-09 | 1 | 5 | 8 | 9 | 6 | 79 |
+| 90d | 2026-07-10 | 2 | 12 | 12 | 10 | 12 | 160 |
+| last180d | 2026-04-11 | 3 | 17 | 19 | 18 | 26 | 250 |
+| 360d | 2025-10-13 | 5 | 34 | 24 | 34 | 44 | 375 |
+| last720d | 2024-10-18 | 10 | 67 | 29 | 86 | 77 | 563 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:10:50Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:22:00Z._
