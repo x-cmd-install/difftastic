@@ -14,7 +14,7 @@ x install difftastic
 
 ## Code insight
 
-Total: **1,131,726** lines of code across **110** files in the top 5 languages.
+Total: **1,131,723** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **1,131,726** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.71.0` (2026-09-18)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-26
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 26,059 · **Forks**: 526 · **Open issues**: 760 · **Contributors**: 453
+- **Stars**: 26,065 · **Forks**: 527 · **Open issues**: 760 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 178 · **Open PRs**: 48 · **Closed issues**: 526 · **Open issues**: 234 · **Commits**: 15973
+- **Releases**: 53 · **Merged PRs**: 178 · **Open PRs**: 48 · **Closed issues**: 526 · **Open issues**: 234 · **Commits**: 15978
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 12 | 10 | 4 | 2 | 57 |
-| last60d | 2026-08-27 | 1 | 15 | 11 | 9 | 2 | 104 |
-| 90d | 2026-07-28 | 2 | 20 | 19 | 13 | 8 | 165 |
-| last180d | 2026-04-29 | 3 | 28 | 25 | 23 | 20 | 260 |
-| 360d | 2025-10-31 | 5 | 42 | 30 | 38 | 36 | 394 |
-| last720d | 2024-11-05 | 9 | 77 | 35 | 93 | 67 | 582 |
+| 30d | 2026-09-27 | 0 | 12 | 10 | 4 | 2 | 67 |
+| last60d | 2026-08-28 | 1 | 15 | 11 | 9 | 2 | 114 |
+| 90d | 2026-07-29 | 2 | 20 | 19 | 13 | 8 | 175 |
+| last180d | 2026-04-30 | 3 | 28 | 25 | 23 | 20 | 270 |
+| 360d | 2025-11-01 | 5 | 42 | 30 | 38 | 36 | 404 |
+| last720d | 2024-11-06 | 9 | 77 | 35 | 93 | 67 | 587 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:50:39Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:28:08Z._
