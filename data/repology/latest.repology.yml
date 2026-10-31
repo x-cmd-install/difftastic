@@ -50,18 +50,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: aur
-  srcname: difftastic-git
-  binname: difftastic-git
-  visiblename: difftastic-git
-  version: 0.63.0.r35.bbe681013
-  origversion: 0.63.0.r35.bbe681013-1
-  status: rolling
-  summary: a diff that understands syntax
-  maintainers:
-    - ordoviz@aur
-  licenses:
-    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: difftastic
@@ -208,6 +196,18 @@
   summary: An experimental diff tool that compares files based on their syntax
   licenses:
     - MIT
+- repo: aur
+  srcname: difftastic-git
+  binname: difftastic-git
+  visiblename: difftastic-git
+  version: 0.63.0.r35.bbe681013
+  origversion: 0.63.0.r35.bbe681013-1
+  status: rolling
+  summary: a diff that understands syntax
+  maintainers:
+    - ordoviz@aur
+  licenses:
+    - MIT
 - repo: baulk
   srcname: difftastic
   binname: difftastic
@@ -314,22 +314,6 @@
   categories:
     - Unspecified
 - repo: fedora_39
-  subrepo: release
-  srcname: rust-difftastic
-  binnames:
-    - difftastic
-    - rust-difftastic-debuginfo
-    - rust-difftastic-debugsource
-  visiblename: rust-difftastic
-  version: 0.51.1
-  origversion: 0.51.1-1.fc39
-  status: legacy
-  summary: Structural diff that understands syntax
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: updates
   srcname: rust-difftastic
   binnames:
@@ -340,6 +324,22 @@
   version: 0.61.0
   origversion: 0.61.0-1.fc39
   status: outdated
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.51.1
+  origversion: 0.51.1-1.fc39
+  status: legacy
   summary: Structural diff that understands syntax
   licenses:
     - MIT
@@ -378,22 +378,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: rust-difftastic
-  binnames:
-    - difftastic
-    - rust-difftastic-debuginfo
-    - rust-difftastic-debugsource
-  visiblename: rust-difftastic
-  version: 0.60.0
-  origversion: 0.60.0-2.fc41
-  status: legacy
-  summary: Structural diff that understands syntax
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: rust-difftastic
   binnames:
@@ -409,7 +393,7 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_42
+- repo: fedora_41
   subrepo: release
   srcname: rust-difftastic
   binnames:
@@ -417,8 +401,8 @@
     - rust-difftastic-debuginfo
     - rust-difftastic-debugsource
   visiblename: rust-difftastic
-  version: 0.63.0
-  origversion: 0.63.0-1.fc42
+  version: 0.60.0
+  origversion: 0.60.0-2.fc41
   status: legacy
   summary: Structural diff that understands syntax
   licenses:
@@ -436,6 +420,22 @@
   version: 0.67.0
   origversion: 0.67.0-1.fc42
   status: outdated
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.63.0
+  origversion: 0.63.0-1.fc42
+  status: legacy
   summary: Structural diff that understands syntax
   licenses:
     - MIT
@@ -474,22 +474,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: rust-difftastic
-  binnames:
-    - difftastic
-    - rust-difftastic-debuginfo
-    - rust-difftastic-debugsource
-  visiblename: rust-difftastic
-  version: 0.67.0
-  origversion: 0.67.0-2.fc44
-  status: legacy
-  summary: Structural diff that understands syntax
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: rust-difftastic
   binnames:
@@ -500,6 +484,22 @@
   version: 0.69.0
   origversion: 0.69.0-1.fc44
   status: outdated
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.67.0
+  origversion: 0.67.0-2.fc44
+  status: legacy
   summary: Structural diff that understands syntax
   licenses:
     - MIT
@@ -525,9 +525,9 @@
   srcname: textproc/difftastic
   binname: difftastic
   visiblename: textproc/difftastic
-  version: 0.71.0
-  origversion: 0.71.0_2
-  status: outdated
+  version: 0.72.0
+  origversion: null
+  status: newest
   summary: Diff tool that compares files based on their syntax
   maintainers:
     - amdmi3@amdmi3.ru
@@ -538,7 +538,7 @@
   visiblename: dev-util/difftastic
   version: 0.71.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: A structural diff that understands syntax
   maintainers:
     - chutzpah@gentoo.org
@@ -581,6 +581,24 @@
     - Apache-2.0
     - BSD
     - Unicode-DFS-2016
+    - CeCILL-C
+  categories:
+    - dev-util
+- repo: gentoo
+  srcname: dev-util/difftastic
+  visiblename: dev-util/difftastic
+  version: 0.72.0
+  origversion: null
+  status: newest
+  summary: A structural diff that understands syntax
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - Unicode-DFS-2016
+    - ZLIB
     - CeCILL-C
   categories:
     - dev-util
@@ -634,9 +652,27 @@
 - repo: liguros_develop
   srcname: dev-util/difftastic
   visiblename: dev-util/difftastic
+  version: 0.72.0
+  origversion: null
+  status: newest
+  summary: A structural diff that understands syntax
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - Unicode-DFS-2016
+    - ZLIB
+    - CeCILL-C
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/difftastic
+  visiblename: dev-util/difftastic
   version: 0.71.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: A structural diff that understands syntax
   maintainers:
     - chutzpah@gentoo.org
@@ -686,9 +722,9 @@
   srcname: devel/difftastic
   binname: difftastic
   visiblename: difftastic
-  version: 0.71.0
+  version: 0.72.0
   origversion: null
-  status: outdated
+  status: newest
   summary: An experimental diff tool that compares files based on their syntax
   maintainers:
     - herbygillot@github
@@ -733,9 +769,9 @@
   srcname: mingw-w64-difftastic
   binname: mingw-w64-clang-x86_64-difftastic
   visiblename: mingw-w64-clang-x86_64-difftastic
-  version: 0.71.0
-  origversion: 0.71.0-1
-  status: outdated
+  version: 0.72.0
+  origversion: 0.72.0-1
+  status: newest
   summary: A structural diff that understands syntax (mingw-w64)
   licenses:
     - spdx:MIT
@@ -743,9 +779,19 @@
   srcname: mingw-w64-difftastic
   binname: mingw-w64-clang-x86_64-difftastic-docs
   visiblename: mingw-w64-clang-x86_64-difftastic-docs
-  version: 0.71.0
-  origversion: 0.71.0-1
-  status: outdated
+  version: 0.72.0
+  origversion: 0.72.0-1
+  status: newest
+  summary: A structural diff that understands syntax (mingw-w64) (Documentation)
+  licenses:
+    - spdx:MIT
+- repo: msys2_clangarm64
+  srcname: mingw-w64-difftastic
+  binname: mingw-w64-clang-aarch64-difftastic-docs
+  visiblename: mingw-w64-clang-aarch64-difftastic-docs
+  version: 0.72.0
+  origversion: 0.72.0-1
+  status: newest
   summary: A structural diff that understands syntax (mingw-w64) (Documentation)
   licenses:
     - spdx:MIT
@@ -753,29 +799,9 @@
   srcname: mingw-w64-difftastic
   binname: mingw-w64-clang-aarch64-difftastic
   visiblename: mingw-w64-clang-aarch64-difftastic
-  version: 0.71.0
-  origversion: 0.71.0-1
-  status: outdated
-  summary: A structural diff that understands syntax (mingw-w64)
-  licenses:
-    - spdx:MIT
-- repo: msys2_clangarm64
-  srcname: mingw-w64-difftastic
-  binname: mingw-w64-clang-aarch64-difftastic-docs
-  visiblename: mingw-w64-clang-aarch64-difftastic-docs
-  version: 0.71.0
-  origversion: 0.71.0-1
-  status: outdated
-  summary: A structural diff that understands syntax (mingw-w64) (Documentation)
-  licenses:
-    - spdx:MIT
-- repo: msys2_ucrt64
-  srcname: mingw-w64-difftastic
-  binname: mingw-w64-ucrt-x86_64-difftastic
-  visiblename: mingw-w64-ucrt-x86_64-difftastic
-  version: 0.71.0
-  origversion: 0.71.0-1
-  status: outdated
+  version: 0.72.0
+  origversion: 0.72.0-1
+  status: newest
   summary: A structural diff that understands syntax (mingw-w64)
   licenses:
     - spdx:MIT
@@ -783,10 +809,20 @@
   srcname: mingw-w64-difftastic
   binname: mingw-w64-ucrt-x86_64-difftastic-docs
   visiblename: mingw-w64-ucrt-x86_64-difftastic-docs
-  version: 0.71.0
-  origversion: 0.71.0-1
-  status: outdated
+  version: 0.72.0
+  origversion: 0.72.0-1
+  status: newest
   summary: A structural diff that understands syntax (mingw-w64) (Documentation)
+  licenses:
+    - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-difftastic
+  binname: mingw-w64-ucrt-x86_64-difftastic
+  visiblename: mingw-w64-ucrt-x86_64-difftastic
+  version: 0.72.0
+  origversion: 0.72.0-1
+  status: newest
+  summary: A structural diff that understands syntax (mingw-w64)
   licenses:
     - spdx:MIT
 - repo: nix_stable_24_05
@@ -871,9 +907,9 @@
   srcname: devel/difftastic
   binname: difftastic
   visiblename: devel/difftastic
-  version: 0.71.0
+  version: 0.72.0
   origversion: null
-  status: outdated
+  status: newest
   summary: diff tool that compares files based on their syntax
   maintainers:
     - volker@openbsd.org
@@ -1003,9 +1039,9 @@
 - repo: t2
   srcname: difftastic
   visiblename: difftastic
-  version: 0.71.0
+  version: 0.72.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A structural diff tool that understands syntax
   maintainers:
     - rene@exactco.de
@@ -1017,9 +1053,9 @@
   srcname: difftastic
   binname: difftastic
   visiblename: difftastic
-  version: 0.71.0
+  version: 0.72.0
   origversion: null
-  status: outdated
+  status: newest
   summary: 'difft: A structural diff that understands syntax'
   maintainers:
     - termux@github
@@ -1039,9 +1075,9 @@
 - repo: wikidata
   srcname: Q113687096
   visiblename: difftastic
-  version: 0.71.0
+  version: 0.72.0
   origversion: null
-  status: outdated
+  status: newest
   summary: syntax-aware diff software
   licenses:
     - MIT License
