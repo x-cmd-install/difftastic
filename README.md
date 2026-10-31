@@ -33,27 +33,27 @@ Total: **1,131,846** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.72.0` (2026-10-29)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 26,097 · **Forks**: 534 · **Open issues**: 762 · **Contributors**: 453
+- **Stars**: 26,114 · **Forks**: 534 · **Open issues**: 762 · **Contributors**: 454
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 178 · **Open PRs**: 52 · **Closed issues**: 526 · **Open issues**: 236 · **Commits**: 15982
+- **Releases**: 54 · **Merged PRs**: 179 · **Open PRs**: 50 · **Closed issues**: 526 · **Open issues**: 236 · **Commits**: 15983
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 12 | 14 | 3 | 4 | 73 |
-| last60d | 2026-08-31 | 2 | 15 | 15 | 9 | 4 | 120 |
-| 90d | 2026-08-01 | 3 | 20 | 22 | 12 | 10 | 181 |
-| last180d | 2026-05-03 | 3 | 27 | 29 | 23 | 21 | 276 |
-| 360d | 2025-11-04 | 6 | 42 | 34 | 38 | 38 | 410 |
-| last720d | 2024-11-09 | 10 | 77 | 39 | 93 | 69 | 591 |
+| 30d | 2026-10-01 | 1 | 13 | 12 | 2 | 4 | 74 |
+| last60d | 2026-09-01 | 2 | 16 | 13 | 9 | 4 | 121 |
+| 90d | 2026-08-02 | 3 | 19 | 20 | 12 | 10 | 182 |
+| last180d | 2026-05-04 | 3 | 28 | 27 | 23 | 21 | 277 |
+| 360d | 2025-11-05 | 6 | 43 | 32 | 38 | 38 | 411 |
+| last720d | 2024-11-10 | 10 | 78 | 37 | 93 | 69 | 592 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **1,131,846** lines of code across **110** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/difftastic). **5** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
+Reported by **83** distros on [repology.org](https://repology.org/project/difftastic). **19** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:53:20Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:47:07Z._
