@@ -33,27 +33,27 @@ Total: **1,131,846** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.72.0` (2026-10-29)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-02
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 26,119 · **Forks**: 534 · **Open issues**: 762 · **Contributors**: 454
+- **Stars**: 26,128 · **Forks**: 533 · **Open issues**: 762 · **Contributors**: 454
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 179 · **Open PRs**: 50 · **Closed issues**: 526 · **Open issues**: 236 · **Commits**: 15983
+- **Releases**: 54 · **Merged PRs**: 180 · **Open PRs**: 50 · **Closed issues**: 526 · **Open issues**: 236 · **Commits**: 15984
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 13 | 12 | 1 | 4 | 69 |
-| last60d | 2026-09-02 | 2 | 15 | 13 | 8 | 4 | 99 |
-| 90d | 2026-08-03 | 3 | 19 | 19 | 12 | 10 | 155 |
-| last180d | 2026-05-05 | 3 | 28 | 27 | 23 | 21 | 271 |
-| 360d | 2025-11-06 | 6 | 42 | 32 | 38 | 38 | 407 |
-| last720d | 2024-11-11 | 10 | 78 | 37 | 93 | 69 | 592 |
+| 30d | 2026-10-03 | 1 | 14 | 12 | 1 | 3 | 70 |
+| last60d | 2026-09-03 | 2 | 16 | 13 | 8 | 4 | 100 |
+| 90d | 2026-08-04 | 3 | 20 | 19 | 12 | 10 | 156 |
+| last180d | 2026-05-06 | 3 | 29 | 27 | 23 | 21 | 272 |
+| 360d | 2025-11-07 | 6 | 43 | 32 | 38 | 38 | 408 |
+| last720d | 2024-11-12 | 10 | 79 | 37 | 93 | 69 | 590 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:20:59Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:22:59Z._
