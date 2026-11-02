@@ -11,13 +11,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: crates_io
-  srcname: difftastic
-  visiblename: difftastic
-  version: 0.72.0
-  origversion: null
-  status: newest
-  summary: A structural diff that understands syntax.
 - repo: alpine_3_19
   subrepo: community
   srcname: difftastic
@@ -272,6 +265,13 @@
   summary: Difftastic is a structural diff tool that compares files based on their syntax.
   licenses:
     - MIT
+- repo: crates_io
+  srcname: difftastic
+  visiblename: difftastic
+  version: 0.72.0
+  origversion: null
+  status: newest
+  summary: A structural diff that understands syntax.
 - repo: epel_8
   srcname: rust-difftastic
   visiblename: rust-difftastic
@@ -474,22 +474,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: updates
-  srcname: rust-difftastic
-  binnames:
-    - difftastic
-    - rust-difftastic-debuginfo
-    - rust-difftastic-debugsource
-  visiblename: rust-difftastic
-  version: 0.69.0
-  origversion: 0.69.0-1.fc44
-  status: outdated
-  summary: Structural diff that understands syntax
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: release
   srcname: rust-difftastic
   binnames:
@@ -500,6 +484,22 @@
   version: 0.67.0
   origversion: 0.67.0-2.fc44
   status: legacy
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.69.0
+  origversion: 0.69.0-1.fc44
+  status: outdated
   summary: Structural diff that understands syntax
   licenses:
     - MIT
@@ -533,15 +533,6 @@
     - amdmi3@amdmi3.ru
   categories:
     - textproc
-- repo: scoop
-  subrepo: main
-  binname: difftastic
-  visiblename: difftastic
-  version: 0.72.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: gentoo
   srcname: dev-util/difftastic
   visiblename: dev-util/difftastic
@@ -576,6 +567,19 @@
     - CeCILL-C
   categories:
     - dev-util
+- repo: nix_stable_25_11
+  srcname: difftastic
+  visiblename: difftastic
+  version: 0.67.0
+  origversion: null
+  status: outdated
+  summary: Syntax-aware diff
+  maintainers:
+    - ethan@ethancedwards.com
+    - mail@beyermatthias.de
+    - defelo@github
+  licenses:
+    - MIT
 - repo: gentoo
   srcname: dev-util/difftastic
   visiblename: dev-util/difftastic
@@ -746,8 +750,8 @@
   srcname: difftastic
   binname: difftastic
   visiblename: difftastic
-  version: 0.70.0
-  origversion: 0.70.0-2
+  version: 0.51.1
+  origversion: 0.51.1-3
   status: outdated
   summary: An experimental diff tool that compares files based on their syntax
   licenses:
@@ -757,8 +761,8 @@
   srcname: difftastic
   binname: difftastic
   visiblename: difftastic
-  version: 0.71.0
-  origversion: 0.71.0-1
+  version: 0.51.1
+  origversion: 0.51.1-3
   status: outdated
   summary: An experimental diff tool that compares files based on their syntax
   licenses:
@@ -814,18 +818,6 @@
   summary: A structural diff that understands syntax (mingw-w64) (Documentation)
   licenses:
     - spdx:MIT
-- repo: pkgsrc_current
-  srcname: devel/difftastic
-  binname: difftastic
-  visiblename: devel/difftastic
-  version: 0.71.0
-  origversion: null
-  status: outdated
-  summary: Syntax-aware diffing tool
-  maintainers:
-    - bsiegert@netbsd.org
-  categories:
-    - devel
 - repo: msys2_ucrt64
   srcname: mingw-w64-difftastic
   binname: mingw-w64-ucrt-x86_64-difftastic
@@ -881,19 +873,6 @@
   maintainers:
     - ethan@ethancedwards.com
     - figsoda@pm.me
-    - mail@beyermatthias.de
-    - defelo@github
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: difftastic
-  visiblename: difftastic
-  version: 0.67.0
-  origversion: null
-  status: outdated
-  summary: Syntax-aware diff
-  maintainers:
-    - ethan@ethancedwards.com
     - mail@beyermatthias.de
     - defelo@github
   licenses:
@@ -988,6 +967,27 @@
     - bsiegert@netbsd.org
   categories:
     - devel
+- repo: pkgsrc_current
+  srcname: devel/difftastic
+  binname: difftastic
+  visiblename: devel/difftastic
+  version: 0.71.0
+  origversion: null
+  status: outdated
+  summary: Syntax-aware diffing tool
+  maintainers:
+    - bsiegert@netbsd.org
+  categories:
+    - devel
+- repo: scoop
+  subrepo: main
+  binname: difftastic
+  visiblename: difftastic
+  version: 0.72.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: slackbuilds
   srcname: development/difftastic
   visiblename: development/difftastic
