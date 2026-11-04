@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10188281,
       "digest": "sha256:959ce3e4b661663a6bb0b79de5e03051897e521e99c1b85f3c810b54f025ec93",
-      "download_count": 412,
+      "download_count": 515,
       "created_at": "2026-10-29T21:11:02Z",
       "updated_at": "2026-10-29T21:11:03Z",
       "browser_download_url": "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8755550,
       "digest": "sha256:d5fc6be7140ac28a26985328b9ae7724962d467e21aa78f7245319573af76cdc",
-      "download_count": 54,
+      "download_count": 63,
       "created_at": "2026-10-29T21:12:17Z",
       "updated_at": "2026-10-29T21:12:17Z",
       "browser_download_url": "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9863601,
       "digest": "sha256:0993a82a6708a24adc6c6b8de366924728ed08f537a5b488940082c8edc79353",
-      "download_count": 365,
+      "download_count": 441,
       "created_at": "2026-10-29T21:12:42Z",
       "updated_at": "2026-10-29T21:12:43Z",
       "browser_download_url": "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9714098,
       "digest": "sha256:31472d5cc1d40444beb697b58e6cf83febb3c7741df4007c3039952ffc1c36c6",
-      "download_count": 81,
+      "download_count": 102,
       "created_at": "2026-10-29T21:12:13Z",
       "updated_at": "2026-10-29T21:12:14Z",
       "browser_download_url": "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8907291,
       "digest": "sha256:7b6295a9a433ba79978b02ad4b4b27f955423b8eb379927409b9ff4e5156379e",
-      "download_count": 1411,
+      "download_count": 1652,
       "created_at": "2026-10-29T21:11:33Z",
       "updated_at": "2026-10-29T21:11:34Z",
       "browser_download_url": "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-pc-windows-msvc.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10080176,
       "digest": "sha256:33ea1f003081e9f2422299a434e6040c89085bd9f102b08f3fe30393720d5d4a",
-      "download_count": 2083,
+      "download_count": 2754,
       "created_at": "2026-10-29T21:11:07Z",
       "updated_at": "2026-10-29T21:11:08Z",
       "browser_download_url": "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10151788,
       "digest": "sha256:27b9c1fe038a95682eed241265a3cacb781227730f106104b617e10067d38ff4",
-      "download_count": 621,
+      "download_count": 715,
       "created_at": "2026-10-29T21:11:30Z",
       "updated_at": "2026-10-29T21:11:30Z",
       "browser_download_url": "https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-unknown-linux-musl.tar.gz"
