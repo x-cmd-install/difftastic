@@ -14,14 +14,14 @@ x install difftastic
 
 ## Code insight
 
-Total: **1,131,846** lines of code across **110** files in the top 5 languages.
+Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 1,035,078 | 50,722 | 86,639 | 4 |
 | OCaml | 29,188 | 2,108 | 1,615 | 8 |
 | Json | 21,493 | 0 | 1 | 17 |
-| Rust | 18,576 | 914 | 2,178 | 58 |
+| Rust | 18,579 | 914 | 2,178 | 58 |
 | Elisp | 6,604 | 1,029 | 874 | 23 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **1,131,846** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.72.0` (2026-10-29)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-04
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 26,150 · **Forks**: 533 · **Open issues**: 763 · **Contributors**: 454
+- **Stars**: 26,155 · **Forks**: 533 · **Open issues**: 763 · **Contributors**: 454
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 180 · **Open PRs**: 50 · **Closed issues**: 526 · **Open issues**: 237 · **Commits**: 15984
+- **Releases**: 54 · **Merged PRs**: 181 · **Open PRs**: 49 · **Closed issues**: 527 · **Open issues**: 236 · **Commits**: 15985
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 14 | 12 | 1 | 4 | 70 |
-| last60d | 2026-09-05 | 2 | 16 | 13 | 8 | 5 | 100 |
-| 90d | 2026-08-06 | 3 | 20 | 18 | 12 | 11 | 156 |
-| last180d | 2026-05-08 | 3 | 29 | 27 | 22 | 22 | 272 |
-| 360d | 2025-11-09 | 6 | 43 | 32 | 38 | 38 | 408 |
-| last720d | 2024-11-14 | 10 | 79 | 37 | 92 | 70 | 590 |
+| 30d | 2026-10-06 | 1 | 15 | 11 | 2 | 3 | 71 |
+| last60d | 2026-09-06 | 2 | 16 | 12 | 9 | 4 | 101 |
+| 90d | 2026-08-07 | 3 | 21 | 17 | 13 | 7 | 157 |
+| last180d | 2026-05-09 | 3 | 30 | 26 | 23 | 21 | 273 |
+| 360d | 2025-11-10 | 6 | 44 | 31 | 39 | 37 | 409 |
+| last720d | 2024-11-15 | 10 | 80 | 36 | 92 | 69 | 591 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:25:59Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:54:24Z._
