@@ -38,7 +38,7 @@ x install difftastic
 
 ## 流行度
 
-- **Star**: 26,155 · **Fork**: 533 · **开放 issue**: 763 · **贡献者**: 454
+- **Star**: 26,157 · **Fork**: 533 · **开放 issue**: 763 · **贡献者**: 454
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install difftastic
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 15 | 11 | 2 | 3 | 71 |
-| last60d | 2026-09-06 | 2 | 16 | 12 | 9 | 4 | 101 |
-| 90d | 2026-08-07 | 3 | 21 | 17 | 13 | 7 | 157 |
-| last180d | 2026-05-09 | 3 | 30 | 26 | 23 | 21 | 273 |
-| 360d | 2025-11-10 | 6 | 44 | 31 | 39 | 37 | 409 |
-| last720d | 2024-11-15 | 10 | 80 | 36 | 92 | 69 | 591 |
+| 30d | 2026-10-07 | 1 | 15 | 10 | 2 | 3 | 71 |
+| last60d | 2026-09-07 | 2 | 16 | 12 | 9 | 4 | 101 |
+| 90d | 2026-08-08 | 2 | 21 | 17 | 13 | 7 | 157 |
+| last180d | 2026-05-10 | 3 | 30 | 25 | 23 | 21 | 273 |
+| 360d | 2025-11-11 | 6 | 44 | 31 | 39 | 36 | 409 |
+| last720d | 2024-11-16 | 10 | 80 | 36 | 91 | 69 | 585 |
 
 ## Release 资产
 
@@ -69,7 +69,7 @@ x install difftastic
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/difftastic) 上共有 **83** 个发行版报告此项目。**24** 个 ✅ 已是最新上游版本，**45** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/difftastic) 上共有 **83** 个发行版报告此项目。**30** 个 ✅ 已是最新上游版本，**39** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -78,7 +78,7 @@ x install difftastic
 | Fedora rawhide | `0.69.0` | ⚠️ outdated |
 | Nix unstable | `0.72.0` | ✅ latest |
 | Void | `0.67.0` | ⚠️ outdated |
-| Alpine edge | `0.71.0` | ⚠️ outdated |
+| Alpine edge | `0.72.0` | ✅ latest |
 | openSUSE Tumbleweed | `0.72.0` | ✅ latest |
 
 ## 改进这些数据
@@ -90,4 +90,4 @@ difftastic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T06:54:26Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T06:51:24Z._

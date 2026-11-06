@@ -38,7 +38,7 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 26,155 · **Forks**: 533 · **Open issues**: 763 · **Contributors**: 454
+- **Stars**: 26,157 · **Forks**: 533 · **Open issues**: 763 · **Contributors**: 454
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 15 | 11 | 2 | 3 | 71 |
-| last60d | 2026-09-06 | 2 | 16 | 12 | 9 | 4 | 101 |
-| 90d | 2026-08-07 | 3 | 21 | 17 | 13 | 7 | 157 |
-| last180d | 2026-05-09 | 3 | 30 | 26 | 23 | 21 | 273 |
-| 360d | 2025-11-10 | 6 | 44 | 31 | 39 | 37 | 409 |
-| last720d | 2024-11-15 | 10 | 80 | 36 | 92 | 69 | 591 |
+| 30d | 2026-10-07 | 1 | 15 | 10 | 2 | 3 | 71 |
+| last60d | 2026-09-07 | 2 | 16 | 12 | 9 | 4 | 101 |
+| 90d | 2026-08-08 | 2 | 21 | 17 | 13 | 7 | 157 |
+| last180d | 2026-05-10 | 3 | 30 | 25 | 23 | 21 | 273 |
+| 360d | 2025-11-11 | 6 | 44 | 31 | 39 | 36 | 409 |
+| last720d | 2024-11-16 | 10 | 80 | 36 | 91 | 69 | 585 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/difftastic). **24** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
+Reported by **83** distros on [repology.org](https://repology.org/project/difftastic). **30** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -78,7 +78,7 @@ Reported by **83** distros on [repology.org](https://repology.org/project/diffta
 | Fedora rawhide | `0.69.0` | ⚠️ outdated |
 | Nix unstable | `0.72.0` | ✅ latest |
 | Void | `0.67.0` | ⚠️ outdated |
-| Alpine edge | `0.71.0` | ⚠️ outdated |
+| Alpine edge | `0.72.0` | ✅ latest |
 | openSUSE Tumbleweed | `0.72.0` | ✅ latest |
 
 ## Improve this data
@@ -90,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:54:24Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:51:23Z._
