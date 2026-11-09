@@ -1,27 +1,25 @@
-- repo: altsisyphus
-  srcname: difftastic
-  binnames:
-    - difftastic
-    - difftastic-debuginfo
-  visiblename: difftastic
-  version: 0.71.0
-  origversion: 0.71.0-alt1
-  status: outdated
-  summary: A structural diff that understands syntax
-  maintainers:
-    - amakeenk@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - File tools
-- repo: gnuguix
+- repo: manjaro_testing
+  subrepo: extra
   srcname: difftastic
   binname: difftastic
   visiblename: difftastic
-  version: 0.69.0
-  origversion: null
-  status: outdated
-  summary: Structural diff command that understands syntax
+  version: 0.72.0
+  origversion: 0.72.0-1
+  status: newest
+  summary: An experimental diff tool that compares files based on their syntax
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: difftastic
+  binname: difftastic
+  visiblename: difftastic
+  version: 0.72.0
+  origversion: 0.72.0-1
+  status: newest
+  summary: An experimental diff tool that compares files based on their syntax
+  licenses:
+    - MIT
 - repo: alpine_3_18
   subrepo: community
   srcname: difftastic
@@ -181,6 +179,22 @@
     - MIT
   categories:
     - File tools
+- repo: altsisyphus
+  srcname: difftastic
+  binnames:
+    - difftastic
+    - difftastic-debuginfo
+  visiblename: difftastic
+  version: 0.72.0
+  origversion: 0.72.0-alt1
+  status: newest
+  summary: A structural diff that understands syntax
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - File tools
 - repo: aosc
   srcname: app-utils/difftastic
   binname: difftastic
@@ -267,9 +281,9 @@
 - repo: chromebrew
   srcname: difftastic
   visiblename: difftastic
-  version: 0.71.0
+  version: 0.72.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Difftastic is a structural diff tool that compares files based on their syntax.
   licenses:
     - MIT
@@ -322,22 +336,6 @@
   categories:
     - Unspecified
 - repo: fedora_39
-  subrepo: release
-  srcname: rust-difftastic
-  binnames:
-    - difftastic
-    - rust-difftastic-debuginfo
-    - rust-difftastic-debugsource
-  visiblename: rust-difftastic
-  version: 0.51.1
-  origversion: 0.51.1-1.fc39
-  status: legacy
-  summary: Structural diff that understands syntax
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: updates
   srcname: rust-difftastic
   binnames:
@@ -348,6 +346,22 @@
   version: 0.61.0
   origversion: 0.61.0-1.fc39
   status: outdated
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.51.1
+  origversion: 0.51.1-1.fc39
+  status: legacy
   summary: Structural diff that understands syntax
   licenses:
     - MIT
@@ -450,22 +464,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: rust-difftastic
-  binnames:
-    - difftastic
-    - rust-difftastic-debuginfo
-    - rust-difftastic-debugsource
-  visiblename: rust-difftastic
-  version: 0.69.0
-  origversion: 0.69.0-1.fc43
-  status: outdated
-  summary: Structural diff that understands syntax
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: rust-difftastic
   binnames:
@@ -476,6 +474,22 @@
   version: 0.63.0
   origversion: 0.63.0-5.fc43
   status: legacy
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.69.0
+  origversion: 0.69.0-1.fc43
+  status: outdated
   summary: Structural diff that understands syntax
   licenses:
     - MIT
@@ -610,6 +624,14 @@
     - CeCILL-C
   categories:
     - dev-util
+- repo: gnuguix
+  srcname: difftastic
+  binname: difftastic
+  visiblename: difftastic
+  version: 0.69.0
+  origversion: null
+  status: outdated
+  summary: Structural diff command that understands syntax
 - repo: homebrew
   srcname: difftastic
   visiblename: difftastic
@@ -743,28 +765,6 @@
   summary: An experimental diff tool that compares files based on their syntax
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: difftastic
-  binname: difftastic
-  visiblename: difftastic
-  version: 0.72.0
-  origversion: 0.72.0-1
-  status: newest
-  summary: An experimental diff tool that compares files based on their syntax
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: difftastic
-  binname: difftastic
-  visiblename: difftastic
-  version: 0.72.0
-  origversion: 0.72.0-1
-  status: newest
-  summary: An experimental diff tool that compares files based on their syntax
-  licenses:
-    - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-difftastic
   binname: mingw-w64-clang-x86_64-difftastic-docs
@@ -787,22 +787,22 @@
     - spdx:MIT
 - repo: msys2_clangarm64
   srcname: mingw-w64-difftastic
-  binname: mingw-w64-clang-aarch64-difftastic
-  visiblename: mingw-w64-clang-aarch64-difftastic
-  version: 0.72.0
-  origversion: 0.72.0-2
-  status: newest
-  summary: A structural diff that understands syntax (mingw-w64)
-  licenses:
-    - spdx:MIT
-- repo: msys2_clangarm64
-  srcname: mingw-w64-difftastic
   binname: mingw-w64-clang-aarch64-difftastic-docs
   visiblename: mingw-w64-clang-aarch64-difftastic-docs
   version: 0.72.0
   origversion: 0.72.0-2
   status: newest
   summary: A structural diff that understands syntax (mingw-w64) (Documentation)
+  licenses:
+    - spdx:MIT
+- repo: msys2_clangarm64
+  srcname: mingw-w64-difftastic
+  binname: mingw-w64-clang-aarch64-difftastic
+  visiblename: mingw-w64-clang-aarch64-difftastic
+  version: 0.72.0
+  origversion: 0.72.0-2
+  status: newest
+  summary: A structural diff that understands syntax (mingw-w64)
   licenses:
     - spdx:MIT
 - repo: msys2_ucrt64
