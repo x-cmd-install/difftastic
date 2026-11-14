@@ -38,22 +38,22 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 26,199 · **Forks**: 536 · **Open issues**: 764 · **Contributors**: 454
+- **Stars**: 26,183 · **Forks**: 538 · **Open issues**: 764 · **Contributors**: 454
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 181 · **Open PRs**: 49 · **Closed issues**: 527 · **Open issues**: 237 · **Commits**: 15985
+- **Releases**: 54 · **Merged PRs**: 181 · **Open PRs**: 51 · **Closed issues**: 527 · **Open issues**: 237 · **Commits**: 15985
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 3 | 4 | 2 | 4 | 23 |
-| last60d | 2026-09-14 | 2 | 16 | 12 | 7 | 5 | 83 |
-| 90d | 2026-08-15 | 2 | 18 | 13 | 11 | 7 | 142 |
-| last180d | 2026-05-17 | 3 | 29 | 24 | 21 | 22 | 273 |
-| 360d | 2025-11-18 | 5 | 43 | 31 | 38 | 35 | 387 |
-| last720d | 2024-11-23 | 10 | 80 | 36 | 88 | 70 | 579 |
+| 30d | 2026-10-15 | 1 | 3 | 6 | 2 | 4 | 23 |
+| last60d | 2026-09-15 | 2 | 16 | 14 | 7 | 5 | 83 |
+| 90d | 2026-08-16 | 2 | 18 | 15 | 11 | 7 | 142 |
+| last180d | 2026-05-18 | 3 | 29 | 26 | 21 | 22 | 273 |
+| 360d | 2025-11-19 | 5 | 42 | 33 | 37 | 35 | 387 |
+| last720d | 2024-11-24 | 10 | 80 | 38 | 88 | 70 | 579 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/difftastic). **35** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
+Reported by **83** distros on [repology.org](https://repology.org/project/difftastic). **36** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:53:28Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:36:22Z._
