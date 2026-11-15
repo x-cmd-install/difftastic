@@ -21,7 +21,7 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 | Cpp | 1,035,078 | 50,722 | 86,639 | 4 |
 | OCaml | 29,188 | 2,108 | 1,615 | 8 |
 | Json | 21,493 | 0 | 1 | 17 |
-| Rust | 18,579 | 914 | 2,178 | 58 |
+| Rust | 18,579 | 914 | 2,180 | 58 |
 | Elisp | 6,604 | 1,029 | 874 | 23 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.72.0` (2026-10-29)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-15
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 26,183 · **Forks**: 538 · **Open issues**: 764 · **Contributors**: 454
+- **Stars**: 26,186 · **Forks**: 538 · **Open issues**: 764 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 181 · **Open PRs**: 51 · **Closed issues**: 527 · **Open issues**: 237 · **Commits**: 15985
+- **Releases**: 54 · **Merged PRs**: 181 · **Open PRs**: 49 · **Closed issues**: 527 · **Open issues**: 237 · **Commits**: 15987
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 3 | 6 | 2 | 4 | 23 |
-| last60d | 2026-09-15 | 2 | 16 | 14 | 7 | 5 | 83 |
-| 90d | 2026-08-16 | 2 | 18 | 15 | 11 | 7 | 142 |
-| last180d | 2026-05-18 | 3 | 29 | 26 | 21 | 22 | 273 |
-| 360d | 2025-11-19 | 5 | 42 | 33 | 37 | 35 | 387 |
-| last720d | 2024-11-24 | 10 | 80 | 38 | 88 | 70 | 579 |
+| 30d | 2026-10-16 | 1 | 4 | 5 | 2 | 4 | 23 |
+| last60d | 2026-09-16 | 2 | 17 | 12 | 7 | 5 | 81 |
+| 90d | 2026-08-17 | 2 | 19 | 13 | 10 | 7 | 138 |
+| last180d | 2026-05-19 | 3 | 30 | 24 | 21 | 22 | 278 |
+| 360d | 2025-11-20 | 5 | 42 | 31 | 37 | 35 | 390 |
+| last720d | 2024-11-25 | 10 | 80 | 36 | 88 | 70 | 581 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:36:22Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:35:42Z._
