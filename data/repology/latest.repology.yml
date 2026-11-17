@@ -5,44 +5,6 @@
   origversion: null
   status: newest
   summary: A structural diff that understands syntax.
-- repo: chimera
-  subrepo: user
-  srcname: difftastic
-  binname: difftastic-doc
-  visiblename: difftastic-doc
-  version: 0.72.0
-  origversion: 0.72.0-r0
-  status: newest
-  summary: Structural diff tool (documentation)
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: difftastic
-  binname: difftastic-man
-  visiblename: difftastic-man
-  version: 0.72.0
-  origversion: 0.72.0-r0
-  status: newest
-  summary: Structural diff tool (manual pages)
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: difftastic
-  visiblename: Difftastic
-  version: 0.70.0
-  origversion: null
-  status: outdated
-  summary: A structural diff that understands syntax.
-- repo: chromebrew
-  srcname: difftastic
-  visiblename: difftastic
-  version: 0.72.0
-  origversion: null
-  status: newest
-  summary: Difftastic is a structural diff tool that compares files based on their syntax.
-  licenses:
-    - MIT
 - repo: alpine_3_18
   subrepo: community
   srcname: difftastic
@@ -272,6 +234,44 @@
   summary: Structural diff tool
   licenses:
     - MIT
+- repo: chimera
+  subrepo: user
+  srcname: difftastic
+  binname: difftastic-doc
+  visiblename: difftastic-doc
+  version: 0.72.0
+  origversion: 0.72.0-r0
+  status: newest
+  summary: Structural diff tool (documentation)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: difftastic
+  binname: difftastic-man
+  visiblename: difftastic-man
+  version: 0.72.0
+  origversion: 0.72.0-r0
+  status: newest
+  summary: Structural diff tool (manual pages)
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: difftastic
+  visiblename: Difftastic
+  version: 0.70.0
+  origversion: null
+  status: outdated
+  summary: A structural diff that understands syntax.
+- repo: chromebrew
+  srcname: difftastic
+  visiblename: difftastic
+  version: 0.72.0
+  origversion: null
+  status: newest
+  summary: Difftastic is a structural diff tool that compares files based on their syntax.
+  licenses:
+    - MIT
 - repo: epel_8
   srcname: rust-difftastic
   visiblename: rust-difftastic
@@ -314,22 +314,6 @@
   categories:
     - Unspecified
 - repo: fedora_39
-  subrepo: release
-  srcname: rust-difftastic
-  binnames:
-    - difftastic
-    - rust-difftastic-debuginfo
-    - rust-difftastic-debugsource
-  visiblename: rust-difftastic
-  version: 0.51.1
-  origversion: 0.51.1-1.fc39
-  status: legacy
-  summary: Structural diff that understands syntax
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: updates
   srcname: rust-difftastic
   binnames:
@@ -340,6 +324,22 @@
   version: 0.61.0
   origversion: 0.61.0-1.fc39
   status: outdated
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.51.1
+  origversion: 0.51.1-1.fc39
+  status: legacy
   summary: Structural diff that understands syntax
   licenses:
     - MIT
@@ -410,22 +410,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: updates
-  srcname: rust-difftastic
-  binnames:
-    - difftastic
-    - rust-difftastic-debuginfo
-    - rust-difftastic-debugsource
-  visiblename: rust-difftastic
-  version: 0.67.0
-  origversion: 0.67.0-1.fc42
-  status: outdated
-  summary: Structural diff that understands syntax
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: release
   srcname: rust-difftastic
   binnames:
@@ -436,6 +420,35 @@
   version: 0.63.0
   origversion: 0.63.0-1.fc42
   status: legacy
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: nix_stable_24_11
+  srcname: difftastic
+  visiblename: difftastic
+  version: 0.61.0
+  origversion: null
+  status: outdated
+  summary: Syntax-aware diff
+  maintainers:
+    - ethan@ethancedwards.com
+    - figsoda@pm.me
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: fedora_42
+  subrepo: updates
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.67.0
+  origversion: 0.67.0-1.fc42
+  status: outdated
   summary: Structural diff that understands syntax
   licenses:
     - MIT
@@ -474,6 +487,22 @@
   categories:
     - Unspecified
 - repo: fedora_44
+  subrepo: updates
+  srcname: rust-difftastic
+  binnames:
+    - difftastic
+    - rust-difftastic-debuginfo
+    - rust-difftastic-debugsource
+  visiblename: rust-difftastic
+  version: 0.69.0
+  origversion: 0.69.0-1.fc44
+  status: outdated
+  summary: Structural diff that understands syntax
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
   subrepo: release
   srcname: rust-difftastic
   binnames:
@@ -489,8 +518,8 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: updates
+- repo: fedora_45
+  subrepo: release
   srcname: rust-difftastic
   binnames:
     - difftastic
@@ -498,7 +527,7 @@
     - rust-difftastic-debugsource
   visiblename: rust-difftastic
   version: 0.69.0
-  origversion: 0.69.0-1.fc44
+  origversion: 0.69.0-2.fc45
   status: outdated
   summary: Structural diff that understands syntax
   licenses:
@@ -550,6 +579,20 @@
     - CeCILL-C
   categories:
     - dev-util
+- repo: nix_stable_25_05
+  srcname: difftastic
+  visiblename: difftastic
+  version: 0.65.0
+  origversion: null
+  status: outdated
+  summary: Syntax-aware diff
+  maintainers:
+    - ethan@ethancedwards.com
+    - figsoda@pm.me
+    - mail@beyermatthias.de
+    - defelo@github
+  licenses:
+    - MIT
 - repo: gentoo
   srcname: dev-util/difftastic
   visiblename: dev-util/difftastic
@@ -767,16 +810,6 @@
     - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-difftastic
-  binname: mingw-w64-clang-x86_64-difftastic
-  visiblename: mingw-w64-clang-x86_64-difftastic
-  version: 0.72.0
-  origversion: 0.72.0-2
-  status: newest
-  summary: A structural diff that understands syntax (mingw-w64)
-  licenses:
-    - spdx:MIT
-- repo: msys2_clang64
-  srcname: mingw-w64-difftastic
   binname: mingw-w64-clang-x86_64-difftastic-docs
   visiblename: mingw-w64-clang-x86_64-difftastic-docs
   version: 0.72.0
@@ -785,14 +818,14 @@
   summary: A structural diff that understands syntax (mingw-w64) (Documentation)
   licenses:
     - spdx:MIT
-- repo: msys2_clangarm64
+- repo: msys2_clang64
   srcname: mingw-w64-difftastic
-  binname: mingw-w64-clang-aarch64-difftastic-docs
-  visiblename: mingw-w64-clang-aarch64-difftastic-docs
+  binname: mingw-w64-clang-x86_64-difftastic
+  visiblename: mingw-w64-clang-x86_64-difftastic
   version: 0.72.0
   origversion: 0.72.0-2
   status: newest
-  summary: A structural diff that understands syntax (mingw-w64) (Documentation)
+  summary: A structural diff that understands syntax (mingw-w64)
   licenses:
     - spdx:MIT
 - repo: msys2_clangarm64
@@ -803,6 +836,16 @@
   origversion: 0.72.0-2
   status: newest
   summary: A structural diff that understands syntax (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_clangarm64
+  srcname: mingw-w64-difftastic
+  binname: mingw-w64-clang-aarch64-difftastic-docs
+  visiblename: mingw-w64-clang-aarch64-difftastic-docs
+  version: 0.72.0
+  origversion: 0.72.0-2
+  status: newest
+  summary: A structural diff that understands syntax (mingw-w64) (Documentation)
   licenses:
     - spdx:MIT
 - repo: msys2_ucrt64
@@ -835,33 +878,6 @@
   maintainers:
     - ethan@ethancedwards.com
     - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: difftastic
-  visiblename: difftastic
-  version: 0.61.0
-  origversion: null
-  status: outdated
-  summary: Syntax-aware diff
-  maintainers:
-    - ethan@ethancedwards.com
-    - figsoda@pm.me
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: difftastic
-  visiblename: difftastic
-  version: 0.65.0
-  origversion: null
-  status: outdated
-  summary: Syntax-aware diff
-  maintainers:
-    - ethan@ethancedwards.com
-    - figsoda@pm.me
-    - mail@beyermatthias.de
-    - defelo@github
   licenses:
     - MIT
 - repo: nix_stable_25_11
