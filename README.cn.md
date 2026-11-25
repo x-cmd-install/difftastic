@@ -38,7 +38,7 @@ x install difftastic
 
 ## 流行度
 
-- **Star**: 26,247 · **Fork**: 542 · **开放 issue**: 765 · **贡献者**: 454
+- **Star**: 26,260 · **Fork**: 543 · **开放 issue**: 765 · **贡献者**: 454
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install difftastic
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 4 | 5 | 1 | 4 | 8 |
-| last60d | 2026-09-25 | 1 | 16 | 14 | 5 | 6 | 81 |
-| 90d | 2026-08-26 | 2 | 19 | 15 | 10 | 6 | 128 |
-| last180d | 2026-05-28 | 3 | 30 | 27 | 21 | 23 | 278 |
-| 360d | 2025-11-29 | 5 | 43 | 32 | 34 | 36 | 390 |
-| last720d | 2024-12-04 | 10 | 81 | 39 | 88 | 69 | 577 |
+| 30d | 2026-10-26 | 1 | 4 | 5 | 1 | 4 | 8 |
+| last60d | 2026-09-26 | 1 | 16 | 14 | 5 | 6 | 81 |
+| 90d | 2026-08-27 | 2 | 19 | 15 | 10 | 6 | 128 |
+| last180d | 2026-05-29 | 3 | 30 | 27 | 21 | 23 | 278 |
+| 360d | 2025-11-30 | 5 | 43 | 32 | 34 | 36 | 390 |
+| last720d | 2024-12-05 | 10 | 81 | 39 | 88 | 69 | 577 |
 
 ## Release 资产
 
@@ -67,20 +67,6 @@ x install difftastic
 | [difft-0.72.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-unknown-linux-gnu.tar.gz) | 9.6 MiB | `native/linux/x64/glibc` |
 | [difft-0.72.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-unknown-linux-musl.tar.gz) | 9.7 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/difftastic) 上共有 **84** 个发行版报告此项目。**37** 个 ✅ 已是最新上游版本，**33** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.72.0` | ✅ latest |
-| Homebrew | `0.72.0` | ✅ latest |
-| Fedora rawhide | `0.69.0` | ⚠️ outdated |
-| Nix unstable | `0.72.0` | ✅ latest |
-| Void | `0.67.0` | ⚠️ outdated |
-| Alpine edge | `0.72.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.72.0` | ✅ latest |
-
 ## 改进这些数据
 
 difftastic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `difftastic` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -90,4 +76,4 @@ difftastic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:19:19Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:40:02Z._

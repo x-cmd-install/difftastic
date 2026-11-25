@@ -38,7 +38,7 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 26,247 · **Forks**: 542 · **Open issues**: 765 · **Contributors**: 454
+- **Stars**: 26,260 · **Forks**: 543 · **Open issues**: 765 · **Contributors**: 454
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 4 | 5 | 1 | 4 | 8 |
-| last60d | 2026-09-25 | 1 | 16 | 14 | 5 | 6 | 81 |
-| 90d | 2026-08-26 | 2 | 19 | 15 | 10 | 6 | 128 |
-| last180d | 2026-05-28 | 3 | 30 | 27 | 21 | 23 | 278 |
-| 360d | 2025-11-29 | 5 | 43 | 32 | 34 | 36 | 390 |
-| last720d | 2024-12-04 | 10 | 81 | 39 | 88 | 69 | 577 |
+| 30d | 2026-10-26 | 1 | 4 | 5 | 1 | 4 | 8 |
+| last60d | 2026-09-26 | 1 | 16 | 14 | 5 | 6 | 81 |
+| 90d | 2026-08-27 | 2 | 19 | 15 | 10 | 6 | 128 |
+| last180d | 2026-05-29 | 3 | 30 | 27 | 21 | 23 | 278 |
+| 360d | 2025-11-30 | 5 | 43 | 32 | 34 | 36 | 390 |
+| last720d | 2024-12-05 | 10 | 81 | 39 | 88 | 69 | 577 |
 
 ## Release assets
 
@@ -67,20 +67,6 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 | [difft-0.72.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-unknown-linux-gnu.tar.gz) | 9.6 MiB | `native/linux/x64/glibc` |
 | [difft-0.72.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/Wilfred/difftastic/releases/download/0.72.0/difft-0.72.0-x86_64-unknown-linux-musl.tar.gz) | 9.7 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **84** distros on [repology.org](https://repology.org/project/difftastic). **37** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.72.0` | ✅ latest |
-| Homebrew | `0.72.0` | ✅ latest |
-| Fedora rawhide | `0.69.0` | ⚠️ outdated |
-| Nix unstable | `0.72.0` | ✅ latest |
-| Void | `0.67.0` | ⚠️ outdated |
-| Alpine edge | `0.72.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.72.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for difftastic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `difftastic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +76,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:19:17Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:40:00Z._
