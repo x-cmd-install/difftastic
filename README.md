@@ -38,22 +38,22 @@ Total: **1,131,849** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 26,260 · **Forks**: 543 · **Open issues**: 765 · **Contributors**: 454
+- **Stars**: 26,269 · **Forks**: 545 · **Open issues**: 765 · **Contributors**: 454
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 182 · **Open PRs**: 52 · **Closed issues**: 527 · **Open issues**: 238 · **Commits**: 15987
+- **Releases**: 54 · **Merged PRs**: 182 · **Open PRs**: 53 · **Closed issues**: 527 · **Open issues**: 238 · **Commits**: 15987
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 4 | 5 | 1 | 4 | 8 |
-| last60d | 2026-09-26 | 1 | 16 | 14 | 5 | 6 | 81 |
-| 90d | 2026-08-27 | 2 | 19 | 15 | 10 | 6 | 128 |
-| last180d | 2026-05-29 | 3 | 30 | 27 | 21 | 23 | 278 |
-| 360d | 2025-11-30 | 5 | 43 | 32 | 34 | 36 | 390 |
-| last720d | 2024-12-05 | 10 | 81 | 39 | 88 | 69 | 577 |
+| 30d | 2026-10-27 | 1 | 4 | 6 | 1 | 4 | 8 |
+| last60d | 2026-09-27 | 1 | 16 | 15 | 5 | 6 | 81 |
+| 90d | 2026-08-28 | 2 | 19 | 16 | 10 | 6 | 128 |
+| last180d | 2026-05-30 | 3 | 30 | 28 | 21 | 23 | 278 |
+| 360d | 2025-12-01 | 5 | 43 | 33 | 34 | 35 | 390 |
+| last720d | 2024-12-06 | 10 | 81 | 40 | 88 | 69 | 577 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for difftastic lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:40:00Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:31:35Z._
